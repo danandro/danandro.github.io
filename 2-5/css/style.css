@@ -1,0 +1,38 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: red;
+	background-color: black;
+}
+
+h3 {
+	background-color: #747474;
+	max-width: 100px;
+	text-align: center;
+	text-transform: uppercase;
+	border: 1px solid black;
+}
+
+#main_title {
+	text-transform: uppercase;
+	color: #8400FF;
+	display: inline;
+	border: 1px solid black;
+	padding: 0px 5px 0px 5px;
+}
+
+.title {
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #A5ACAC;
+}
+
+.back {
+	background-color:  #747474;
+	border: 1px solid black;
+	padding: 1px 5px 1px 5px;
+}
+
+.chptrs {
+	background-color: #A5ACAC;
+}
