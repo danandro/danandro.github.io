@@ -5,7 +5,7 @@
 
 [Модуль 3. Урок №7](https://danandro.github.io/3-7/src) - Сверстать макет на чистом HTML и CSS с использованием normalize или reset
 
-[Модуль 3. Урок №8](https://danandro.github.io/3-8/src) - Сверстать одаптивный сайт
+[Модуль 3. Урок №8](https://danandro.github.io/3-8/src) - Сверстать адаптивный сайт
 
 [Модуль 3. Урок №9](https://danandro.github.io/3-9/src) - Сверстать макет с использованием библиотеки bootstrap 3
 
