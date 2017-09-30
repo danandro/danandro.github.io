@@ -1,0 +1,95 @@
+body {
+	background-color: #000000;
+	font-family: arial;
+	font-weight: bold;
+	margin: 0px;
+}
+
+.form-bg {
+	position: relative;
+	left: 125px;
+	top: 100px;
+	background-color: #fff;
+	height: 370px;
+	width: 320px;
+	border: 1px solid #cfdede;
+	box-shadow: 0px 1px rgba(0,0,0,0.03);
+}
+.form {
+	position: absolute;
+	height: 570px;
+	width: 570px;
+	background-image: url(../img/bg.png);
+
+}
+.btn {
+	position: absolute;
+	border: none;
+	padding: 0px;
+	left: 30px;
+	top: -5px;
+	background-color: #01b3b3;
+	height: 25px;
+	width: 149px;
+	text-align: center;
+	box-shadow: 1px 1px rgba(0,0,0,0.15);
+}
+.btn span {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #ffffff;
+	text-shadow: 0px 1px rgba(0,0,0,0.1);
+}
+
+.email {
+	margin-top: 54.5px;
+	position: relative;
+}
+
+.password {
+	position: relative;
+	margin-top: 14px;
+
+}
+.form-header {
+	margin-left: 30px;
+	margin-top: 0px;
+	font-size: 12px;
+}
+
+.form-header span {
+	color: #01b3b3;
+}
+
+input {
+	margin-left: 30px;
+	height: 31.5px;
+	width: 245px;
+	padding: 0;
+	padding-left: 13px;
+	background-image: url(../img/bg.png);
+	border: 1px solid #cfdede;
+	border-radius: 2px;
+}
+
+.register-btn {
+	position: relative;
+	margin-top: 34px;
+	border: none;
+	border-radius: 3px;
+	padding: 0px;
+	left: 30px;
+	background-color: #01b3b3;
+	height: 45px;
+	width: 260px;
+	text-align: center;
+	text-transform: uppercase;
+	box-shadow: 1px 1px rgba(0,0,0,0.15);
+}
+
+.register-btn span {
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #ffffff;
+
+}
