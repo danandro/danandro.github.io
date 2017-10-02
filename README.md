@@ -19,4 +19,6 @@
 
 [Модуль 5. Шрифты](https://danandro.github.io/fonts-lesson) - Привязка шрифтов
 
+[Модуль 5. Поактика-2](https://danandro.github.io/Pract-lesson-2/src) - Верстка главного экрана
+
  	
