@@ -1,0 +1,140 @@
+/* Fonts */
+@font-face {
+  font-family: 'Proxima-Nova-Rg';
+  src: url('../fonts/ProximaNova-Regular.eot');
+  src: url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Regular.woff') format('woff'), url('../fonts/ProximaNova-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proxima-Nova-Bold';
+  src: url('../fonts/ProximaNova-Bold.eot');
+  src: url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Bold.woff') format('woff'), url('../fonts/ProximaNova-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+/* Theme colors */
+/* Basic settings */
+html {
+  font-size: 10px;
+}
+body {
+  font-family: 'Proxima-Nova-Rg', sans-serif;
+}
+.button {
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #f7ae01;
+  border-radius: 8px;
+  border: none;
+}
+/* Typography */
+section {
+  padding: 10rem 0;
+}
+/* Main */
+.main {
+  background: #ffffff url(../img/main-bg.png) center center no-repeat;
+  background-size: cover;
+  padding: 1.5rem 0 5rem;
+}
+.main-info {
+  margin-top: 10rem;
+}
+.main-info h1 {
+  text-transform: uppercase;
+  font-family: 'Proxima-Nova-Bold', sans-serif;
+  font-size: 3.5rem;
+  line-height: 5rem;
+}
+.main-info p {
+  font-family: 'Proxima-Nova-Bold', sans-serif;
+  margin-top: 3rem;
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+.main-info span {
+  margin-top: 3rem;
+  display: inline-block;
+  text-align: center;
+  background-color: #70c849;
+  padding: 2rem 2rem;
+  font-size: 1.7rem;
+  color: #ffffff;
+}
+.main-info span strong {
+  font-size: 2rem;
+}
+.main-info h2 {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  font-family: 'Proxima-Nova-Bold', sans-serif;
+}
+.main-form {
+  /* border: 1px solid black; */
+  background-color: #ffffff;
+  margin-top: 10rem;
+  padding: 4rem 3.5rem;
+  text-align: center;
+}
+.main-form span {
+  font-size: 1.7rem;
+  line-height: 1rem;
+}
+.main-form form {
+  text-align: center;
+  margin-top: 3rem;
+}
+.main-form form input {
+  width: 100%;
+  height: 5rem;
+  padding: 0 2rem;
+  margin-bottom: 2.5rem;
+  border: 1px solid #dddddd;
+}
+.main-form form label {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+  background-color: #ffffff;
+  padding: 0.5rem;
+  font-size: 1.3rem;
+}
+.main-form form button {
+  display: inline-block;
+  height: 5rem;
+  width: 100%;
+}
+.main-form form small {
+  display: inline-block;
+  margin-top: 1rem;
+}
+.form-comment {
+  display: inline-block;
+  padding: 2rem 3rem;
+  margin-top: 1rem;
+}
+.header {
+  height: 7rem;
+}
+.phone-link {
+  display: inline-block;
+  font-family: 'Proxima-Nova-Bold', sans-serif;
+  font-size: 2rem;
+  height: 7rem;
+  line-height: 7rem;
+  white-space: nowrap;
+  color: #292929;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+}
