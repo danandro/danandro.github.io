@@ -21,4 +21,4 @@
 
 [Модуль 5. Практика-2](https://danandro.github.io/Pract-lesson-2/src) - Верстка главного экрана
 
- 	
+[Модуль 5. Урок №15](https://danandro.github.io/lesson 15) - Псевдоклассы и псевдоэлементы
