@@ -25,3 +25,6 @@
 
 [Модуль 5. Практика-3](https://danandro.github.io/Pract-lesson-3/src) - Придание адаптивности
 
+[Модуль 5. Урок №16](https://danandro.github.io/galery/src) - Слайдер
+
+
