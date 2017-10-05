@@ -27,4 +27,6 @@
 
 [Модуль 5. Урок №16](https://danandro.github.io/galery/src) - Слайдер
 
+[Модуль 5. Практика-4](https://danandro.github.io/Pract-lesson-4/src) - Верстка секции с преимуществами
+
 
