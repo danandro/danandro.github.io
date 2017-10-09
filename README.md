@@ -29,4 +29,6 @@
 
 [Модуль 5. Практика-4](https://danandro.github.io/Pract-lesson-4/src) - Верстка секции с преимуществами
 
+[Модуль 5. Урок №17](https://danandro.github.io/les-17) - Модальное окно
+
 
