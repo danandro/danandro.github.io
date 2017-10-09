@@ -31,4 +31,8 @@
 
 [Модуль 5. Урок №17](https://danandro.github.io/les-17) - Модальное окно
 
+[Модуль 5. Практика-5](https://danandro.github.io/Pract-lesson-5/src) - Добавление модального окна
+
+
+
 
