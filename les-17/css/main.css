@@ -1,0 +1,12 @@
+@import url(../libs/bootstrap-3.3.7-dist/css/bootstrap.min.css);
+.btn-warning {
+  display: block;
+  margin: auto;
+  margin-top: 20%;
+  text-transform: uppercase; }
+
+.modal-content {
+  margin-top: 20%; }
+
+.modal-body p {
+  font-size: 20px; }
