@@ -37,6 +37,8 @@
 
 [Модуль 5. Урок №18](https://danandro.github.io/accordion) - аккордион
 
+[Модуль 5. Практика-6](https://danandro.github.io/Pract-lesson-6/src) - Блок с ценами
+
 
 
 
