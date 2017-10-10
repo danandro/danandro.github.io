@@ -35,6 +35,11 @@
 
 [Модуль 5. Урок №18](https://danandro.github.io/less-18) - Табы
 
+[Модуль 5. Урок №18](https://danandro.github.io/accordion) - аккордион
+
+
+
+
 
 
 
