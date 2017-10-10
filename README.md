@@ -33,6 +33,8 @@
 
 [Модуль 5. Практика-5](https://danandro.github.io/Pract-lesson-5/src) - Добавление модального окна
 
+[Модуль 5. Урок №18](https://danandro.github.io/less-18) - Табы
+
 
 
 
