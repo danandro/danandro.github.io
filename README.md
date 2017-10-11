@@ -39,6 +39,8 @@
 
 [Модуль 5. Практика-6](https://danandro.github.io/Pract-lesson-6/src) - Блок с ценами
 
+[Модуль 5. Урок №18](https://danandro.github.io/less-19) - Анимация формы
+
 
 
 
