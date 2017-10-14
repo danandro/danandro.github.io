@@ -49,6 +49,8 @@
 
 [Модуль 5. Практика-8](https://danandro.github.io/Pract-lesson-8/src) - Практика 8
 
+[Модуль 6. Практика-9](https://danandro.github.io/Pract-lesson-9/src) - Практика 9
+
 
 
 
