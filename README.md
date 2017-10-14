@@ -47,6 +47,9 @@
 
 [Модуль 5. Урок №20](https://danandro.github.io/less-20/src) - Видео фон
 
+[Модуль 5. Практика-8](https://danandro.github.io/Pract-lesson-8/src) - Практика 8
+
+
 
 
 
