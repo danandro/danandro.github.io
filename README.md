@@ -51,7 +51,7 @@
 
 [Модуль 6. Практика-9](https://danandro.github.io/Pract-lesson-9/src) - Практика 9
 
-[Модуль 6. Практика-10](https://danandro.github.io/_Pract-lesson-10/src) - Практика 10
+[Модуль 6. Практика-10](https://danandro.github.io/Pract-lesson-10/src) - Практика 10
 
 
 
