@@ -53,6 +53,8 @@
 
 [Модуль 6. Практика-10](https://danandro.github.io/Pract-lesson-10/src) - Практика 10
 
+[Модуль 6. Практика-11](https://danandro.github.io/Pract-lesson-11/src) - Практика 11
+
 
 
 
